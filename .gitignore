@@ -16,3 +16,6 @@ venv/
 
 # macOS
 .DS_Store
+
+# Neo4j
+data/neo4j/
