@@ -1,5 +1,4 @@
-from app.graph.neo4j_repository import Neo4jRepository
-
+from app.repository.neo4j_repository import Neo4jRepository
 
 class GraphService:
 

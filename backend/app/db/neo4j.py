@@ -1,6 +1,6 @@
 from neo4j import GraphDatabase
 
-from app.config import (
+from core.config import (
     NEO4J_URI,
     NEO4J_USER,
     NEO4J_PASSWORD
